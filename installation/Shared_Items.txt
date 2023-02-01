@@ -1,0 +1,5 @@
+['holy_trinity']    = {['name'] = 'holy_trinity',    ['label'] = 'Holy Trinity',          ['weight'] = 50, ['type'] = 'item', ['image'] = 'holytrinity.png',     ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Holy Trinity'},
+['shrooms']         = {['name'] = 'shrooms',         ['label'] = 'Magic Shrooms',         ['weight'] = 50, ['type'] = 'item', ['image'] = 'shrooms.png',     ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Opium'},
+['opium']           = {['name'] = 'opium',           ['label'] = 'Opium',                 ['weight'] = 50, ['type'] = 'item', ['image'] = 'opium.png',     ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Opium'},
+['joint']           = {['name'] = 'joint',           ['label'] = 'Joint',                 ['weight'] = 100, ['type'] = 'item', ['image'] = 'joint.png',      ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'A Joint'},
+    
