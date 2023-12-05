@@ -6,8 +6,12 @@ ups hope you enjoy this version the original vorp version can be found here http
 
 # Dependencies
 rsg-core
+rsg-essentials
+rsg-hud
 
 # Installation
 1. Copy Files to your resource folder
 2. copy contents of the installation file to their respective directories
 3. ensure rsg-drugeffects in your server.cfg file
+4. For Gold Rings go into rsg-essentials/client/hudcomponents.lua and witch the hide(2) to a 1 to make them visable at all times
+5. Go into rsg-hud/html/index and open the index in vs code and comment out the div's for stamina and health
